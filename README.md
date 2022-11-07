@@ -1,2 +1,0 @@
-# Laravel
-Building Laravel Website
